@@ -6,4 +6,4 @@ Steps:
     a. Set a regex-esque branch filter.
     b. Tick 'Require status checks to pass before merging'
     c. The previously created status check should show up hopefully.
-3. Try figure out why protection rule is not being enforced.
+3. Try figure out why protection rule is not being enforced - oh it doesn't work upon pushing a new branch, annoying.
